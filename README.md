@@ -1,4 +1,1 @@
 # school
-# school
-# suryodaya
-# suryodaya
