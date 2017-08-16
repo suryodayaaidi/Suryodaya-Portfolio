@@ -1,0 +1,186 @@
+*
+{
+ padding: 0px;
+ margin: 0px;
+}
+#surya
+{
+  height: auto;
+  width: 1350px;
+  margin:auto;
+}
+ul
+{
+  margin: auto;
+  height: 100px;
+  width: 1350px;
+  background-color: #2E86C1;
+  border: 1px solid white;
+}
+ul li
+{
+  list-style: none;
+}
+a
+{
+  text-decoration: none;
+  float: left;
+  text-align: center;
+  line-height: 140px;
+  width: 90px;
+  height: 100px;
+  border-left: 1px solid white;
+  border-right: 1px solid white;
+}
+a:hover
+{
+  color: white;
+}
+.logo
+{
+  text-decoration: none;
+  float: left;
+  text-align: center;
+  line-height: 140px;
+  width: 120px;
+  height: 100px;
+  border-left: 1px solid white;
+  border-right: 1px solid white;
+}
+img
+{
+  width: auto;
+  height: 80px;
+  margin-top: 10px;
+}
+#second
+{
+  margin: auto;
+  height: 750px;
+  width: 1350px;
+  background-image: url("images/image4493.png");
+}
+.pp
+{
+  color: #145A32;
+  font-size: 40px;
+  font-style: italic;
+  text-align: center;
+}
+#ftr
+{
+  height: 70px;
+  background-color: #17202A;
+  width: 1350px;
+  margin: auto;
+}
+p{
+  text-align: center;
+  color: #943126;
+}
+/*about.html*/
+#about
+{
+  width: 1350px;
+  height: 900px;
+}
+.abtp
+{
+  font-size: 35px;
+  font-style: oblique;
+  padding: 10px;
+}
+.abouta
+{
+  background-color: #48C9B0;
+  color: #7D6608;
+  width: 135px;
+  height: 135px;
+  border-radius: 50%;
+  margin-left: 350px;
+  border: 2px solid yellow;
+}
+.abouta:hover
+{
+  background-color: #1D8348;
+  color: #ECF0F1;
+  width: 135px;
+  height: 135px;
+  border-radius: 50%;
+  border: 2px solid yellow;
+}
+/*contact.html*/
+#cont
+{
+  width: 1350px;
+  height: 900px;
+}
+#facebook
+{
+  width: 655px;
+  height: 880px;
+  float: right;
+  margin-right: 0px;
+  background-image: url("images/facebook.png");
+}
+#twitter
+{
+  width: 655px;
+  height: 880px;
+  margin-left: 0px;
+  margin-top: 10px;
+  background-image: url("images/twitter.png");
+}
+.contacta
+{
+  background-color: #48C9B0;
+  color: #7D6608;
+  width: 135px;
+  height: 135px;
+  border-radius: 50%;
+  float: right;
+  border: 3px solid yellow;
+}
+.contacta:hover
+{
+  background-color: #1D8348;
+  color: #ECF0F1;
+  width: 135px;
+  height: 135px;
+  border-radius: 50%;
+  float: right;
+  border: 3px solid yellow;
+}
+.contactp
+{
+  font-size: 30px;
+  font-style: italic;
+  color: red;
+  padding: 15px;
+  margin: auto;
+  text-align: center;
+  width: 500px;
+  background-color: white;
+  border-radius: 20%;
+  border: 3px solid yellow;
+}
+/*more.html*/
+#more
+{
+  width: 1350px;
+  height: 800px;
+  margin-top: 10px;
+  background-image: url("images/more.png");
+}
+.morep
+{
+  width: 600px;
+  border-radius: 20%;
+  margin: auto;
+  background-color: white;
+  font-size: 30px;
+  font-style: oblique;
+  padding: 15px;
+  text-align: center;
+  color: red;
+}
